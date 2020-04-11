@@ -25,7 +25,8 @@ RESISTOR
 
 # Circuit assemble
 
-
-
+<img src="P207.jpeg">
 
 # Model
+
+<img src="gp207.jpeg">
